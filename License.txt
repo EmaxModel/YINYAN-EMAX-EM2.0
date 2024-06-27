@@ -1,0 +1,13 @@
+EMAX EM2.0 Connector Manufacturing License
+Introduction
+The EMAX EM2.0 Connector is an open-source project designed for manufacturing battery connectors. This license outlines the terms and conditions for using, producing, and distributing the connector.
+
+License Terms
+Open Source: The EMAX EM2.0 Connector is released under an open-source license. Manufacturers, companies, and individuals are free to use, produce, and distribute it.
+Purpose: The connector can be used for manufacturing purposes, including incorporation into battery packs, devices, or other products. It is suitable for both private and commercial use.
+Attribution: When manufacturing products that include the EMAX EM2.0 Connector, provide appropriate attribution. Include a notice that credits the original creators and acknowledges the use of this connector.
+Distribution: Manufacturers may distribute products containing the EMAX EM2.0 Connector. Ensure that recipients receive information about the open-source license terms.
+Modifications: Manufacturers can modify the connector design to meet specific requirements. Document any changes and continue to adhere to the license terms.
+No Warranty: The EMAX EM2.0 Connector is provided “as is,” without any warranty. The creators are not liable for any issues arising from its use in manufacturing.
+Conclusion
+By using the EMAX EM2.0 Connector in manufacturing processes, you agree to abide by these license terms. We encourage collaboration and innovation within the battery connector industry!
