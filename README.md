@@ -36,10 +36,10 @@ EMAX proudly shares the EM2.0 connector’s design with the entire FPV micro ind
 
 In summary, the EMAX EM2.0 connector offers weight savings, low resistance, high current handling, quality materials, and a compact form factor. Upgrade your micro drone’s power system with the EM2.0 for extended flight times and optimized performance!
 
-![!](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_01.png?v=1718902737)
-![!](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_02.png?v=1718902737)
-![!](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_03.png?v=1718902737)
-![!](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_04.png?v=1718902737)
-![!](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_05.png?v=1718902737)
+![[!](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_01.png?v=1718902737)](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_01_d0f474c2-95aa-4015-a591-7b334b03f127.png?v=1720738619)
+![[!](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_02.png?v=1718902737)](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_02_d32289cd-5529-4f26-b36c-507a9ef7df33.png?v=1720738619)
+![[!](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_03.png?v=1718902737)](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_03_be107394-1275-44e5-99fb-12ac1fb5dc78.png?v=1720738619)
+![[!](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_04.png?v=1718902737)](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_04_4c749c67-84c7-45d8-a927-0c22ac6840ab.png?v=1720738619)
+![[!](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_05.png?v=1718902737)](https://cdn.shopify.com/s/files/1/0371/2814/2907/files/EM2-Infographic_05_61979c2b-ebf7-405a-af10-752856f16dca.png?v=1720738619)
 
 
